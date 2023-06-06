@@ -7,9 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        🥃 🥃 🥃 🥃 🥃 🥃 🥃 🥃 !
-        This is the new world order
-        😾😾😾😾😾😾😾😾😾😾😾😾😾!
+        This is the new world order updated by local feature.
         </p>
         <a
           className="App-link"
